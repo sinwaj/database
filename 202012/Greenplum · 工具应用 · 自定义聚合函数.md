@@ -92,4 +92,4 @@ FROM person
 
 GROUP BY name；
 
-![image](https://github.com/sinwaj/database/blob/main/images/2020-01.png)
+![image 图1](https://github.com/sinwaj/database/blob/main/images/2020-01.png)
