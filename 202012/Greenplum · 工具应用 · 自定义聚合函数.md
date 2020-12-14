@@ -83,7 +83,7 @@ CREATE AGGREGATE work_money(numeric, numeric)
 
 );
 
-##5、结果验证
+## 5、结果验证
 SELECT name,
 
         work_money(work, 10)
