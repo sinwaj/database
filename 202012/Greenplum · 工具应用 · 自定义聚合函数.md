@@ -93,5 +93,3 @@ FROM person
 GROUP BY name；
 
 ![image](https://github.com/sinwaj/database/blob/main/images/2020-01.png)
-
-![Image 1](https://github.com/sinwaj/database/blob/main/images/2020-01.png)
